@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\source\aspNet\basics\ProductApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hakan Akıncı\source\aspNet\basics\ProductApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hakan Akıncı\source\aspNet\basics\ProductApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hakan Akıncı\source\aspNet\basics\ProductApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hakan Akıncı\source\aspNet\basics\ProductApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hakan Akıncı\source\aspNet\basics\ProductApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hakan Akıncı\source\aspNet\basics\ProductApp\obj\Debug\net8.0\staticwebassets.build.json
