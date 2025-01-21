@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "dJYLSmVMMj5O2XC1d4yBFgjc7Wy6WLElt0qIhpov+dw=",
+  "Source": "TodoApiWithMongoDb",
+  "BasePath": "_content/TodoApiWithMongoDb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
