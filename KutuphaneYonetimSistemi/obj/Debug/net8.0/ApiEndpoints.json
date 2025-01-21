@@ -1,0 +1,101 @@
+[
+  {
+    "ContainingType": "KutuphaneYonetimSistemi.Controllers.KitapController",
+    "Method": "Getir",
+    "RelativePath": "api/Kitap",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[KutuphaneYonetimSistemi.Models.Kitap, KutuphaneYonetimSistemi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "KutuphaneYonetimSistemi.Controllers.KitapController",
+    "Method": "Ekle",
+    "RelativePath": "api/Kitap",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "kitap",
+        "Type": "KutuphaneYonetimSistemi.Models.Kitap",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KutuphaneYonetimSistemi.Controllers.KitapController",
+    "Method": "GetirId",
+    "RelativePath": "api/Kitap/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "KutuphaneYonetimSistemi.Models.Kitap",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "KutuphaneYonetimSistemi.Controllers.KitapController",
+    "Method": "Guncelle",
+    "RelativePath": "api/Kitap/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "kitap",
+        "Type": "KutuphaneYonetimSistemi.Models.Kitap",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KutuphaneYonetimSistemi.Controllers.KitapController",
+    "Method": "Sil",
+    "RelativePath": "api/Kitap/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
