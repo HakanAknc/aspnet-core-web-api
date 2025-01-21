@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "HelloWebApiTest.Controllers.HomeController",
+    "Method": "GetMessage",
+    "RelativePath": "home",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
