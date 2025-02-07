@@ -1,0 +1,6 @@
+@OnlineDersPlatformuApi_HostAddress = http://localhost:5042
+
+GET {{OnlineDersPlatformuApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
